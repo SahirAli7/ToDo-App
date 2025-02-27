@@ -1,0 +1,12 @@
+.box-group{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:  flex-start;
+}
+.add-box {
+  /* background-color: rgb(146, 196, 236); */
+  background-color: #34a58ea8;
+  color: rgb(6, 85, 45);
+  height: 200px;
+  width: 200px;
+}
